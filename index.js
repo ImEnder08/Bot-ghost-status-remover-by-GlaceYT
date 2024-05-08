@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Developed by _imender_","👑 Official bot of NewOrder"];
 
 
 let currentIndex = 0;
