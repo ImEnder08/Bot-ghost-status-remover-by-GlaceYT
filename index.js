@@ -16,7 +16,7 @@
 
 
 const { Client, GatewayIntentBits, ActivityType, TextChannel } = require('discord.js');
-require('dotenv').config();
+require('dotenf').config();
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
